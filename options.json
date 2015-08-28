@@ -1,0 +1,29 @@
+{
+    "options": [
+        {
+            "text": "Hostname:",
+            "type": "text",
+            "key": "hostname",
+        },
+        {
+            "text": "Port:",
+            "type": "text",
+            "key": "port",
+        },
+        {
+            "text": "Base DN:",
+            "type": "text",
+            "key": "basedn",
+        },
+        {
+            "text": "Encryption method",
+            "type": "dropdown",
+            "key": "encryption",
+            "options": [
+                {"text": "No Encryption", "value": "none"},
+                {"text": "Use SSL encryption (ldaps://)", "value": "SSL"},
+                {"text": "Use StartTLS extension", "value": "StartTLS"}
+            ]
+        }
+    ]
+}

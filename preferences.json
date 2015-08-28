@@ -1,0 +1,6 @@
+{
+  "port" : "636",
+  "hostname" : "dirapps.aset.psu.edu",
+  "basedn" : "dc=psu,dc=edu",
+  "encryption" : "SSL"
+}

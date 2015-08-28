@@ -1,0 +1,9 @@
+{
+  "name": "ldap_search",
+  "displayName": "LDAP Search",
+  "description": "Allows you to search your ldap from Spotlight.",
+  "examples": ["ldap uid mrc23", "ldap sn Croyle ldap givenname Matthew"],
+  "categories": ["Utilities", "Search"],
+  "creator_name": "Matt Croyle",
+  "creator_url": "http://www.twitter.com/mcroyle"
+}
